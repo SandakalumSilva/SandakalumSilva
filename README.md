@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandakelum SIlva</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandakalumsilva&label=Profile%20views&color=0e75b6&style=flat" alt="sandakalumsilva" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandakalumsilva&label=Profile%20views&color=0e75b6&style=flat" alt="sandakalumsilva" /> </p>
 
 - 🔭 I’m currently working on **laravel and next js projexts**
 
