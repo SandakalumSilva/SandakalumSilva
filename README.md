@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandakalumsilva&label=Profile%20views&color=0e75b6&style=flat" alt="sandakalumsilva" /> </p>
 
-- 🔭 I’m currently working on **laravel and next js projexts**
+- 🔭 I’m currently working on **laravel and next js projects**
 
 - 🌱 I’m currently learning **vue, nuxt, next js**
 
