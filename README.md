@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandakalumsilva&label=Profile%20views&color=0e75b6&style=flat" alt="sandakalumsilva" /> </p>
 
-- 🔭 I’m currently working on **laravel and next js projects**
+- 🔭 I’m currently working on **laravel and React js projects**
 
-- 🌱 I’m currently learning **vue, nuxt, next js**
+- 🌱 I’m currently learning **nest && next js**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask anything about **Laravel**
 
 
 <h3 align="center">Languages and Tools:</h3>
